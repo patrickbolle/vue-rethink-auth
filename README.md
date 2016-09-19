@@ -1,6 +1,6 @@
 # vue-auth-rethink
 
-> A Vue.js project
+> A Vue.js project built with Express + Passport JS with Thinky.io (RethinkDB).
 
 ## Build Setup
 
@@ -24,4 +24,13 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## DONE
+- Initial Project Setup
+- Passport JS Login + Signup Routes
+- User Model with Thinky.io
+- Password hashing with bcrypt
+
+## TODO
+- Create UI components for Login and signup
+- CRUD
+- 0Auth Social Logins
