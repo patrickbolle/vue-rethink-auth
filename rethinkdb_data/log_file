@@ -1,0 +1,45 @@
+2016-09-17T09:08:15.931419955 83.354770s notice: Recursively removing directory /home/patrick/Programming/vue-auth-rethink/rethinkdb_data/tmp
+2016-09-17T09:08:15.966526335 83.389880s notice: Initializing directory /home/patrick/Programming/vue-auth-rethink/rethinkdb_data
+2016-09-17T09:08:15.966723447 83.390073s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/patrick/Programming/vue-auth-rethink/rethinkdb_data' did not already exist or is empty.)
+2016-09-17T09:08:15.966778590 83.390128s notice: Running rethinkdb 2.3.4~0jessie (GCC 4.9.2)...
+2016-09-17T09:08:15.970390407 83.393743s notice: Running on Linux 3.16.0-4-amd64 x86_64
+2016-09-17T09:08:15.970511669 83.393861s notice: Loading data from directory /home/patrick/Programming/vue-auth-rethink/rethinkdb_data
+2016-09-17T09:08:16.296151147 83.719505s info: Automatically using cache size of 137 MB
+2016-09-17T09:08:16.305618720 83.728968s notice: Listening for intracluster connections on port 29015
+2016-09-17T09:08:16.348480473 83.771830s notice: Listening for client driver connections on port 28015
+2016-09-17T09:08:16.348707902 83.772057s notice: Listening for administrative HTTP connections on port 8080
+2016-09-17T09:08:16.348713717 83.772062s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-09-17T09:08:16.348722787 83.772071s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-09-17T09:08:16.348727587 83.772076s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-09-17T09:08:16.348735240 83.772084s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-09-17T09:08:16.348739931 83.772088s notice: Server ready, "debian_bm3" a84ad60f-ead5-4777-90b8-7c8d0f7b5523
+2016-09-17T09:08:19.902548591 87.325898s notice: A newer version of the RethinkDB server is available: 2.3.5. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2016-09-19T09:20:59.978627449 81.522075s notice: Running rethinkdb 2.3.4~0jessie (GCC 4.9.2)...
+2016-09-19T09:21:00.019490905 81.562942s notice: Running on Linux 3.16.0-4-amd64 x86_64
+2016-09-19T09:21:00.019618218 81.563063s notice: Loading data from directory /home/patrick/Programming/vue-auth-rethink/rethinkdb_data
+2016-09-19T09:21:00.263162265 81.806611s info: Automatically using cache size of 296 MB
+2016-09-19T09:21:00.267796270 81.811242s notice: Listening for intracluster connections on port 29015
+2016-09-19T09:21:00.293987194 81.837432s notice: Listening for client driver connections on port 28015
+2016-09-19T09:21:00.294128897 81.837574s notice: Listening for administrative HTTP connections on port 8080
+2016-09-19T09:21:00.294135119 81.837580s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-09-19T09:21:00.294137726 81.837582s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-09-19T09:21:00.294142048 81.837587s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-09-19T09:21:00.294144648 81.837589s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-09-19T09:21:00.294148705 81.837593s notice: Server ready, "debian_bm3" a84ad60f-ead5-4777-90b8-7c8d0f7b5523
+2016-09-19T09:21:06.081658629 87.625104s notice: A newer version of the RethinkDB server is available: 2.3.5. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2016-09-19T09:21:56.532415565 138.075861s info: Table 6e583f46-5dbe-4ad8-93ec-062f4d063a78: Starting a new Raft election for term 1.
+2016-09-19T09:21:56.593016580 138.136463s info: Table 6e583f46-5dbe-4ad8-93ec-062f4d063a78: Added replica on this server.
+2016-09-19T09:21:56.774409487 138.317855s info: Table 6e583f46-5dbe-4ad8-93ec-062f4d063a78: This server is Raft leader for term 1. Latest log index is 0.
+2016-09-19T09:47:00.602381228 1642.145828s warn: Some RethinkDB data on this server has been placed into swap memory. This may impact performance.
+2016-09-19T10:21:45.365664530 3726.909110s notice: Removing file /home/patrick/Programming/vue-auth-rethink/rethinkdb_data/6e583f46-5dbe-4ad8-93ec-062f4d063a78
+2016-09-19T10:21:45.365682764 3726.909128s info: Table 6e583f46-5dbe-4ad8-93ec-062f4d063a78: Deleted the table.
+2016-09-19T10:22:35.778125812 3777.321571s info: Table ce34b698-86f1-4cb3-899e-917aa2f67e82: Starting a new Raft election for term 1.
+2016-09-19T10:22:35.778439984 3777.321885s info: Table ce34b698-86f1-4cb3-899e-917aa2f67e82: Added replica on this server.
+2016-09-19T10:22:35.863606808 3777.407052s info: Table ce34b698-86f1-4cb3-899e-917aa2f67e82: This server is Raft leader for term 1. Latest log index is 0.
+2016-09-19T10:41:15.145068916 4896.688514s info: Table ce34b698-86f1-4cb3-899e-917aa2f67e82: Configuration is changing.
+2016-09-19T10:41:59.040876029 4940.584321s info: Table ce34b698-86f1-4cb3-899e-917aa2f67e82: Configuration is changing.
+2016-09-19T10:53:48.579222239 5650.122667s notice: Removing file /home/patrick/Programming/vue-auth-rethink/rethinkdb_data/ce34b698-86f1-4cb3-899e-917aa2f67e82
+2016-09-19T10:53:48.579229334 5650.122674s info: Table ce34b698-86f1-4cb3-899e-917aa2f67e82: Deleted the table.
+2016-09-19T10:53:52.674722300 5654.218168s info: Table bb9dd7ee-b60c-4a61-ae09-fe541a7fd2f9: Starting a new Raft election for term 1.
+2016-09-19T10:53:52.674915028 5654.218360s info: Table bb9dd7ee-b60c-4a61-ae09-fe541a7fd2f9: Added replica on this server.
+2016-09-19T10:53:52.719960151 5654.263405s info: Table bb9dd7ee-b60c-4a61-ae09-fe541a7fd2f9: This server is Raft leader for term 1. Latest log index is 0.
